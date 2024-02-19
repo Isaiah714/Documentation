@@ -1,2 +1,2 @@
 # Documentation
-References to other programming languages I know of. 
+The purpose of the repository is to have files containing different programming languages I have experienced with. Within these files will have the sytax that's appropiate to each language and will be a reference to look back on just in case if I forget how these langauges work. I'll have example programs to show how these languages need to be foramtted when starting up a program and the correct syntax for each the programming languages. 
